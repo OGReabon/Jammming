@@ -1,3 +1,7 @@
+Purpose of this app was to practice advanced React methods and uses.
+This app queries Spotify API based on user provided term and returns list of tracks based on that term.
+App then allows user to add tracks to his newly created playlist and save into their spotify account.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
